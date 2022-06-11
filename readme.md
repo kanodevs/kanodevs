@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Astro Client, INC](https://github.com/Astro-Client)
 
-- 🌱 I’m currently learning **Architecture as Code with Pipeline System, Web3 (Solidity, Openzeppelin) and Frontend (ReactJS, Tailwind, Scss soon)**
+- 🌱 I’m currently learning **Architecture as Code on AWS, Web3 (Solidity, Openzeppelin) and Advanced Frontend (ReactJS, Tailwind, Scss soon)**
 
 - 👯 I’m looking to collaborate on **a project ( yes. I like to code, if you have a cool project I'm interested ^^" )**
 

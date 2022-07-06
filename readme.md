@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm @kanodevs, or Ely Delva as well :)</h1>
 <h3>A passionate young backend dev who loves Backend, Web Architecture, Web3... and TypeScript ( what a beautiful language ✨)</h3>
 
-- 🔭 I’m currently working on [Astro Client, INC](https://github.com/Astro-Client)
+- 🔭 I’m currently working on [APINest, Inc](https://github.com/APINest)
 
 - 🌱 I’m currently learning **Architecture as Code on AWS, Web3 (Solidity, Openzeppelin) and Advanced Frontend (ReactJS, Tailwind, Scss soon)**
 

@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm @kanodevs, or Ely Delva as well :)</h1>
-<h3>A passionate young backend dev who loves Backend, Web Architecture, Web3... and TypeScript ( what a beautiful language ✨)</h3>
+<h3>A passionate young backend dev who loves NodeJS, Docker, Web Architecture, Web3... and TypeScript ( what a beautiful language ✨)</h3>
 
 - 🔭 I’m currently working on [APINest, Inc](https://github.com/APINest)
 
-- 🌱 I’m currently learning **Architecture as Code on AWS, Web3 (Solidity, Openzeppelin) and Advanced Frontend (ReactJS, Tailwind, Scss soon)**
+- 🌱 I’m currently learning **Architecture as Code on AWS, K8S, Cloud Best Practice, Web3 (Solidity, Openzeppelin) and Advanced Frontend Rendering (ReactJS, Tailwind)**
 
 - 👯 I’m looking to collaborate on **a project ( yes. I like to code, if you have a cool project I'm interested ^^" )**
 

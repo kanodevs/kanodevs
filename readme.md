@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Architecture as Code on AWS, K8S, Cloud Best Practice, Web3 (Solidity, Openzeppelin) and Advanced Frontend Rendering (ReactJS, Tailwind)**
 
-- 👯 I’m looking to collaborate on **a project ( yes. I like to code, if you have a cool project I'm interested ^^" )**
+- 👯 I’m looking to collaborate on **any project ( yes. I like to code, if you have a cool project I'm interested ^^" )**
 
 - 🤝 I’m looking for help with [Astro Client, INC](https://github.com/Astro-Client)
 
